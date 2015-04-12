@@ -1,0 +1,2 @@
+include ':library', ':okhttp-2.3.0', ':okio-1.3.0'
+include ':BinLoc'

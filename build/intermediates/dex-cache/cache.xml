@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-f6fce710e9c81bfb0ccd9e3dcbae001726599684.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\BinLoc\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c03fe6c37f732c74199906716d8a4c1d898731f4">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-0c8f9bb7f98a8e1e01c3e44c2efb5d549889fb80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-3c64abc428a77cc8a7f1a814b0a704c6fece6606.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-7a65ed17d7d5a4184a399a1f9e3c30f5897cb7a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-3b28510b310e3429bc3055678363f5b9b1edd9bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-f799761c3f947d11dee33e20d7c60a57da082203.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-265c2deb09e5ede68602f7400d6de0507f7a0740.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-13f51d35f08048791e447eff0d71523a1d5ae53e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-ebc8e7dc5250a5349ab2faec8aac870e7475a86e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-9fa71c7e504f7419b77757454803d03298413968.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-3e7d463f5b1dbe57614e41418a44f6d8708d2c34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-1833acfcd5a80c9c67ce54bc1cb1caf52c88691f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-13dee9c7c0eb4392a0ee22aa1a566dba07bf6570.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-e2c43bb725a07c05701ed3a4666744151637a4d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-3d6ebbfc45ddd6f470a1cb34d1dc3d36a23e7a90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-dee3c773e8a163a5e25d7c5467dbcdc887e926b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-6a3cf42d486463708b907a0bffffc4eab3b03a39.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-f5feaf4d6cf9ac7f4679c03bcb9aaf5f7467335e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\libs\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\okhttp-2.3.0-c2145f20c424a7baf1fc230e37fd6234a1b7b1f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-fbcb4b9f6b08229ab1d137576906816ed25ac960.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-d160bcf6e5fdf3d1ac350e8707702e2ea699e2e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\libs\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\okio-1.3.0-7388793ee1c5e2bb076ce5e18feed2500f9ab166.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-dccb23e11f6e034cca8a326fe66d0d4efbd814c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-7ef27527b50e06936f061388be524c27f57c890f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Daniel\Documents\Homework\2014-15\compsci\AndroidStudioProjects\BinLoc\BinLoc\build\intermediates\pre-dexed\debug\classes-8f3e2be85033d6e49a4c989621a65099fe75d05b.jar" />
+    </item>
+
+</items>
